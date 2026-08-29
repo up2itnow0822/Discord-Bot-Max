@@ -1,0 +1,79 @@
+# Terms of Service for: Max
+
+**Last updated:** 08/28/2026
+
+These terms cover your use of [BOT NAME] ("the Bot"), operated by [YOUR NAME OR ORGANIZATION] ("we", "us"). Adding the Bot to a server, or using its commands in a server where it's already present, means you accept these terms. If you don't, remove the Bot or stop using it.
+
+Contact: [CONTACT EMAIL] or our support server at [SUPPORT SERVER INVITE].
+
+## Eligibility
+
+You must meet Discord's minimum age requirement, which is 13, or higher where local law says so. You also have to be in good standing with Discord's own Terms of Service. If Discord bans you, you're not permitted to use the Bot.
+
+## Adding the Bot
+
+Only someone with Manage Server permission can add the Bot. If you add it, you're responsible for:
+
+- Telling your members the Bot is running and that these terms and the [privacy policy](PRIVACY POLICY URL) apply.
+- The permissions you grant it. Grant only what the features you plan to use require.
+- How your moderators configure and use it in your server.
+
+## Acceptable use
+
+Use the Bot for what it's built for. You may not:
+
+- Break Discord's Terms of Service, Community Guidelines, or Developer Terms while using it.
+- Use it to harass, dox, spam, scam, or distribute malware.
+- Use it to collect data about users beyond what the features are designed to surface.
+- Automate, script, or otherwise flood it with requests, or try to work around rate limits.
+- Reverse engineer, decompile, or attempt to extract the source code or credentials.
+- Resell access to the Bot or present it as your own product.
+- Exploit bugs for advantage instead of reporting them. If you find one, tell us at [CONTACT EMAIL].
+
+We can suspend or blacklist any user or server that breaks these rules, with or without warning.
+
+## Availability
+
+The Bot is provided as is. We run it on a best-effort basis and make no promise about uptime. It may go down for maintenance, break during a Discord API change, or stop working because of something outside our control.
+
+We may change features, add limits, or discontinue the Bot entirely at any time. Where a shutdown is planned, we'll try to give notice in the support server first, though we can't guarantee it.
+
+## Data
+
+What we collect and how long we keep it is covered in the [privacy policy](PRIVACY POLICY URL). We don't guarantee that any data the Bot stores for you, such as configuration, logs, or economy balances, will survive an outage, a migration, or the Bot's removal from your server. Keep your own backups of anything you can't lose.
+
+## Payments
+
+[USE ONE OF THE FOLLOWING AND DELETE THE OTHER]
+
+**If the Bot is entirely free:** The Bot is free to use. There are no paid features, and we don't accept payment for access.
+
+**If you offer premium tiers or donations:** Some features require a paid subscription or are unlocked through [PLATFORM, e.g. "Patreon" or "Ko-fi"]. Prices and what each tier includes are listed at [PRICING URL]. Payments are handled by [PAYMENT PROCESSOR] under their own terms. Subscriptions renew until cancelled. Refunds are [YOUR REFUND POLICY, e.g. "issued within 14 days of purchase on request" or "not offered except where required by law"]. Losing access because you broke these terms doesn't entitle you to a refund.
+
+## Ownership
+
+We own the Bot, its code, name, and branding. These terms don't transfer any of that to you. Content you create through the Bot, such as custom commands or embed text, stays yours, and you give us permission to store and display it as needed to run the Bot.
+
+## Liability
+
+To the fullest extent the law allows, we're not liable for any indirect, incidental, or consequential damages arising from your use of the Bot. That includes lost data, lost revenue, or disruption to your server. Our total liability is limited to [the amount you paid us in the past 12 months / zero, since the Bot is free].
+
+Some jurisdictions don't allow these limits, so parts of this section may not apply to you.
+
+## Ending access
+
+You can stop at any time by removing the Bot from your server. We can suspend or end your access at any time, particularly for a breach of these terms. Sections on ownership, liability, and data survive after access ends.
+
+## Changes
+
+We may revise these terms. When we do, we'll update the date above and post a notice in the support server. Using the Bot after a change means you accept the revised terms.
+
+## Governing law
+
+These terms are governed by the laws of [YOUR STATE OR COUNTRY], without regard to conflict of law rules.
+
+## Contact
+
+[YOUR NAME OR ORGANIZATION]
+[CONTACT EMAIL]
+[SUPPORT SERVER INVITE]
